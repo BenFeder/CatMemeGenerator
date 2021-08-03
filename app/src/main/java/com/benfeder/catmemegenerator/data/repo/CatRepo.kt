@@ -1,9 +1,9 @@
 package com.benfeder.catmemegenerator.data.repo
 
 import com.benfeder.catmemegenerator.data.models.Cat
-import com.example.mememaker.data.remote.CatManager
-import com.example.mememaker.utils.Resource
-import com.example.mememaker.data.models.Cat
+import com.benfeder.catmemegenerator.data.remote.CatManager
+import com.benfeder.catmemegenerator.utils.Resource
+
 import java.lang.Exception
 import javax.inject.Inject
 

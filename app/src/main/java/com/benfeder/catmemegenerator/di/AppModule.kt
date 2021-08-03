@@ -1,5 +1,8 @@
 package com.benfeder.catmemegenerator.di
 
+import com.benfeder.catmemegenerator.data.remote.CatService
+import com.benfeder.catmemegenerator.utils.BASE_URL
+import com.benfeder.catmemegenerator.utils.TIMEOUT
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

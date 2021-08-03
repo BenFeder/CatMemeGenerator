@@ -12,9 +12,10 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
+import com.benfeder.catmemegenerator.R
+import com.benfeder.catmemegenerator.databinding.CatMakerFragmentBinding
+import com.benfeder.catmemegenerator.ui.viewmodel.CatMakerViewModel
 import com.example.mememaker.R
-import com.example.mememaker.databinding.CatMakerFragmentBinding
-import com.example.mememaker.ui.viewmodel.CatMakerViewModel
 import dagger.hilt.android.AndroidEntryPoint
 import onTextViewChanged
 

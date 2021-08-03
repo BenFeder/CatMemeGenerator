@@ -3,9 +3,10 @@ package com.benfeder.catmemegenerator.ui.viewmodel
 import androidx.lifecycle.*
 import com.benfeder.catmemegenerator.data.models.Cat
 import com.benfeder.catmemegenerator.data.repo.CatRepo
-import com.example.catsandbirds.data.repo.CatRepo
-import com.example.mememaker.data.models.Cat
-import com.example.mememaker.utils.Resource
+import com.benfeder.catmemegenerator.utils.Resource
+import com.benfeder.catmemegenerator.data.repo.CatRepo
+import com.benfeder.catmemegenerator.data.models.Cat
+import com.benfeder.catmemegenerator.utils.Resource
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedInject
 import dagger.hilt.android.lifecycle.HiltViewModel
