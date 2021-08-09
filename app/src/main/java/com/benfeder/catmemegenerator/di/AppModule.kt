@@ -41,3 +41,4 @@ object AppModule {
         .build()
         .create(CatService::class.java)
 
+}
