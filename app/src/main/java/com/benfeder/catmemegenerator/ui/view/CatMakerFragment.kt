@@ -16,7 +16,6 @@ import com.benfeder.catmemegenerator.R
 import com.benfeder.catmemegenerator.databinding.CatMakerFragmentBinding
 import com.benfeder.catmemegenerator.ui.viewmodel.CatMakerViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import onTextViewChanged
 
 @AndroidEntryPoint
 class CatMakerFragment : Fragment(R.layout.cat_maker_fragment) {

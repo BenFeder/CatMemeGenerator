@@ -4,13 +4,9 @@ import androidx.lifecycle.*
 import com.benfeder.catmemegenerator.data.models.Cat
 import com.benfeder.catmemegenerator.data.repo.CatRepo
 import com.benfeder.catmemegenerator.utils.Resource
-import com.benfeder.catmemegenerator.data.repo.CatRepo
-import com.benfeder.catmemegenerator.data.models.Cat
-import com.benfeder.catmemegenerator.utils.Resource
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedInject
 import dagger.hilt.android.lifecycle.HiltViewModel
-import firstCapital
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import javax.inject.Inject
