@@ -13,14 +13,9 @@ import com.benfeder.catmemegenerator.ui.viewmodel.CatMakerViewModel
 import com.benfeder.catmemegenerator.utils.Resource
 import com.benfeder.catmemegenerator.R
 import com.benfeder.catmemegenerator.databinding.CatViewFragmentBinding
-import com.benfeder.catmemegenerator.ui.viewmodel.CatMakerViewModel
 import com.benfeder.catmemegenerator.utils.BASE_URL
-import com.benfeder.catmemegenerator.utils.Resource
 import com.benfeder.catmemegenerator.utils.View.loadImage
-import com.example.mememaker.R
-import com.example.mememaker.databinding.CatViewFragmentBinding
 import dagger.hilt.android.AndroidEntryPoint
-import loadImage
 
 @AndroidEntryPoint
 class CatViewFragment : Fragment(R.layout.cat_view_fragment) {

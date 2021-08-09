@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.mememaker.ui.view.CatViewFragment"
+    tools:context="com.benfeder.catmemegenerator.ui.view.CatViewFragment"
     >
 
     <com.google.android.material.imageview.ShapeableImageView

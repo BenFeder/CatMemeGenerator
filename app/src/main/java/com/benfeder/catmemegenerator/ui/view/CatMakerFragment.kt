@@ -15,8 +15,6 @@ import androidx.navigation.fragment.findNavController
 import com.benfeder.catmemegenerator.R
 import com.benfeder.catmemegenerator.databinding.CatMakerFragmentBinding
 import com.benfeder.catmemegenerator.ui.viewmodel.CatMakerViewModel
-import com.example.mememaker.R
-import com.example.mememaker.databinding.CatMakerFragmentBinding
 import dagger.hilt.android.AndroidEntryPoint
 import onTextViewChanged
 
