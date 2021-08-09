@@ -1,7 +1,6 @@
 package com.benfeder.catmemegenerator.data.remote
 
 import com.benfeder.catmemegenerator.data.models.Cat
-import com.benfeder.catmemegenerator.data.models.Cat
 import retrofit2.Response
 import javax.inject.Inject
 

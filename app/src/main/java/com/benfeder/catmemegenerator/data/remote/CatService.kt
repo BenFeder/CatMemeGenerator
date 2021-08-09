@@ -1,7 +1,6 @@
 package com.benfeder.catmemegenerator.data.remote
 
 import com.benfeder.catmemegenerator.data.models.Cat
-import com.benfeder.catmemegenerator.data.models.Cat
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

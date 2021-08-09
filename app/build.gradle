@@ -17,7 +17,7 @@ android {
     useLibrary("android.test.mock")
 
     defaultConfig {
-        applicationId "com.benfeder.catmemegenerator"
+        applicationId "com.example.mememaker"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
